@@ -21,7 +21,7 @@ Dataset diambil dari Kaggle:
 
 ## 📓 Notebook
 Notebook analisis dapat dilihat pada file:  
-📎 [`btn_marathon_2025.ipynb`]([btn_marathon_2025.ipynb](https://github.com/bahtiaragung/btn-marathon-2025/blob/main/analysis-btn-jakim-2025.ipynb))
+📎 [`btn_marathon_2025.ipynb`](https://github.com/bahtiaragung/btn-marathon-2025/blob/main/analysis-btn-jakim-2025.ipynb)
 
 ## 📈 Visualisasi
 - Grafik jumlah peserta per kategori lomba
